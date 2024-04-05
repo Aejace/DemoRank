@@ -1,0 +1,3 @@
+[submodule "embedded-app-sdk"]
+	path = embedded-app-sdk
+	url = https://github.com/Aejace/embedded-app-sdk.git
